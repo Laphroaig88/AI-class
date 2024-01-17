@@ -1,17 +1,16 @@
-﻿#Laphroaig88's Github
+﻿# Laphroaig88's Github
 
-##Introduce
+## Introduce
 * :smile: Live in Busan :sunrise:
 * :star: Studying hard :green_book:
 
-##Hobby
+## Hobby
 * :game_die: Boardgame :game_die:
 * :cocktail: Drink :wine_glass:
 
-##:heart_decoration:
-* kieun:princess:
+## :heart_decoration:
+* kieun :princess:
 
-##Contact
-* :email:E-mail : nhd3410@gmail.com
-* :camera:Insta : kkini_0810
-
+## Contact
+* :email: E-mail : nhd3410@gmail.com
+* :camera: Insta : kkini_0810
